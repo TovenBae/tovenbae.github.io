@@ -15,7 +15,7 @@ def print_hi(name):
 print_hi('Tom')
 ​```
 
-ref remote theme Jekyll Theme [jekyll TeXt theme][jekyll-TeXt-theme]
+ref remote theme Jekyll Theme [jekyll TeXt theme][jekyll-TeXt-theme].
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
