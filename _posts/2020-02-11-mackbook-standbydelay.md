@@ -1,5 +1,5 @@
 ---
-title: "Hi Test"
+title: "맥북 배터리 소모시 대기모드 설정 변경"
 date: 2020-02-10 11:46:28 -0400
 categories: MacBook
 ---
