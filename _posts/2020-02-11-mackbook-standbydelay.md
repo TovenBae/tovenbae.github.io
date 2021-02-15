@@ -4,6 +4,7 @@ date: 2020-02-10 11:46:28 -0400
 categories: MacBook
 ---
 
+```
 baesunghan  ~/git/bj/mcp   master  pmset -g | grep standbydelay
  standbydelaylow      10800
  standbydelayhigh     86400
@@ -13,3 +14,4 @@ Password:
  standbydelaylow      1800
  standbydelayhigh     3600
  baesunghan  ~/git/bj/mcp   master 
+ ```
