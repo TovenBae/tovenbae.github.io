@@ -13,6 +13,7 @@ categories: SaaS
 대표주자 : 세일즈포스닷컴, 석세스펙터, 베이스 캠프
 
 ### 특징
+
 [SaaS와 ASP차이](https://heyhyungki.tistory.com/149)
 1. 사용자 기능 재정의(Configurable App)
 - 업무 프로세스나 로직, 화면, 데이터베이스 조작 등을 고객사의 특정 요구에 맞춰 수정하거나, 새로운 업무 기능을 기존 앱에 추가할 수 있는 기술을 내포해야함
@@ -20,6 +21,7 @@ categories: SaaS
 - 이를 위해서 2015년 가트너 발표 10대 IT 키워드로 선정된 "SDA : Software-Defined Application"이 접목되어야 함.
 
 2. 멀티테넌트(Multi_Tenancy)
+
 ![Multi Tenant & Single Tenant](https://mblogthumb-phinf.pstatic.net/MjAyMDAxMjBfODgg/MDAxNTc5NDk0ODQ2OTM3.ojXj6Fg4AyZhoXT2uy8tXlhkETmqoz479v_WPyj7cugg.zdmOSUhnn9kXIFEtBWVdAOoW11RrkSoIrCCFe6q-ZLwg.PNG.ki630808/multitenancy2.PNG?type=w800)
 - 고객사별 요구사항이 수용된 맞춤 업무 처리 서비스를 하지만, 앱 실행 인스턴스는 단 1개만 실행되어야 함.
 - 소프트웨어 멀티 테넌시란 소프트웨어 아키텍처의 한 종류로 하나의 Software Instance 가 하나의 서버 위에서 여러개의 Tenant를 서비스함. 멀티인스턴스와 다른 개념
@@ -41,7 +43,7 @@ categories: SaaS
 예) 전사적자원관리(ERP), 제품정보관리(PDM), 그룹웨어, 전자상거래(EC), 전자문서교환(EDI) 등 하이엔드 어플리케이션는 물론 오피스 제품 등을 빌려주는 것
 
 # ASP와의 공통점 과 차이
-[ASP앱 vs SaaS 앱 비교](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqFeSR%2FbtqCcCpTbMT%2FlMp8UA58evrzV3itO4ad70%2Fimg.png)
+![ASP앱 vs SaaS 앱 비교](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqFeSR%2FbtqCcCpTbMT%2FlMp8UA58evrzV3itO4ad70%2Fimg.png)
 ## 공통점
 * 인터넷을 통해 소비자(주로 기업)에 어플리케이션을 제공함.
 * 정액제 또는 종량제 등의 방식으로 빌렸쓰는 모델
