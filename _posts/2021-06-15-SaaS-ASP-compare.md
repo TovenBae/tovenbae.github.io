@@ -19,10 +19,18 @@ categories: SaaS
 - 이러한 수정 작업에 '재코딩/재컴파일' 과정을 밟지 않고, 정의(Define) 작업만으로 수행해야 함.
 - 이를 위해서 2015년 가트너 발표 10대 IT 키워드로 선정된 "SDA : Software-Defined Application"이 접목되어야 함.
 
-2. 멀티테넌트(Multi_Tenant)
+2. 멀티테넌트(Multi_Tenancy)
+![Multi Tenant & Single Tenant](https://mblogthumb-phinf.pstatic.net/MjAyMDAxMjBfODgg/MDAxNTc5NDk0ODQ2OTM3.ojXj6Fg4AyZhoXT2uy8tXlhkETmqoz479v_WPyj7cugg.zdmOSUhnn9kXIFEtBWVdAOoW11RrkSoIrCCFe6q-ZLwg.PNG.ki630808/multitenancy2.PNG?type=w800)
 - 고객사별 요구사항이 수용된 맞춤 업무 처리 서비스를 하지만, 앱 실행 인스턴스는 단 1개만 실행되어야 함.
+- 소프트웨어 멀티 테넌시란 소프트웨어 아키텍처의 한 종류로 하나의 Software Instance 가 하나의 서버 위에서 여러개의 Tenant를 서비스함. 멀티인스턴스와 다른 개념
+- 복수의 고객들은 동일한 데이터 스토리지 매커니즘과 함께 동일한 하드웨어의 동일한 OS에서 실행되는 동일한 Application을 공유한다.
+- 이는 구성요소가 이양됨으로써 각 고객이 별도의 VM에서 구동되는 것처럼 보이게 하는 가상화와의 차이점이다. [ref](https://jins-dev.tistory.com/entry/Software-Multi-Tenancy-%EC%99%80-Cloud-%EC%97%90%EC%84%9C%EC%9D%98-Multi-Tenancy)
 - 고객사별 요구사항이 별도의 프로그램소스와 이에 대응된 실행 인스턴스가 각각 존재하게 되면, 서비스 제공자는 각 고객사별로 소스관리와 인스턴스 관리를 해야 하기 때문에 서비스 사용자 범위 확장을 어렵게하는 주범이 됨
 - 이 두 기술의 존재 여부에 땨라 SaaS와 ASP로 구분할 수 있음
+
+```
+테넌트(Tenant)란 소프트웨어 인스턴스에 대해 공통이 되는 특정 접근 권한을 공유하는 사용자들
+```
 
 3. 성능확장성(Scalability)
 - 비즈니스 앱 자체적인 스케일-업 기능 수단 마련 필요
