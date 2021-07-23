@@ -2,7 +2,7 @@
 name: "Memoirs"
 title: "Memoirs"
 url: "https://tovenbae.github.io/"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "내 주위 풀, 꽃, 나무, 동물 그리고 IT"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
@@ -15,22 +15,14 @@ email: furtur3@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Toven:
+    name: Toven
+    display_name: Toven
     avatar: 'assets/images/avatar-sal.png'
     email: furtur3@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: furtur3@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+#    web: https://www.wowthemes.net/donate/
+#    twitter: https://twitter.com/wowthemesnet
+    description: "..."
 
 # Plugins
 plugins:
