@@ -1,7 +1,7 @@
 ---
 title: "Unity 학습하기"
 date: 2021-07-05 16:37:28 -0400
-categories: Unity
+categories: Unity plant
 ---
 
 # Unity 학습하기
