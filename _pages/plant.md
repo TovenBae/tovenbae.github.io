@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: category
 title: Plant
-permalink: /plant
+permalink: /categories/plant
 ---
