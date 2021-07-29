@@ -206,3 +206,13 @@ print(cal2.add(7))
 - calendar
 - random
 - webbrowser
+
+# Visual Studio Code 설정
+## unresolved import warning 
+- import한 hamcrest의 assert_that, equal_to 등에 대한 Warning
+- ref : https://ondemand.tistory.com/253
+- Ctrl + Shift + P > Configure Language Specific > Python 으로 settings.json 오픈 후 
+```
+"python.jediEnabled": false
+```
+추가 저장 후 workspace 재오픈
