@@ -1,6 +1,6 @@
 ---
 title: "Jilli Docker 적용"
-date: 2021-008-03 17:37:28 +0900
+date: 2021-08-03 17:37:28 +0900
 categories: docker jilli
 ---
 
