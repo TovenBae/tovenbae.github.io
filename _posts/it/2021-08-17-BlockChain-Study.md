@@ -85,7 +85,7 @@ categories: blockchain
 ### 마이닝(채굴) 과정이란
 마이닝 과정은 임의의 숫자를 이용하여 Difficulty Target을 푸는 과정 입니다. Difficulty Target란 해시함수를 풀기 위한 임의로 설정된 숫자 입니다. 이러한 Difficulty Target을 찾기 위해서는 처음부터 끝까지 하나씩 임의의 숫자를 대입하는 brutal force를 활용해서 풀 수 밖에 없습니다. 프로세스가 진행되는 과정에서 Difficulty Target 보다 낮은 숫자가 나오면 마이닝 프로세스가 끝이 나며 특정 컴퓨터가 이 블록을 마이닝 했다는 것을 확인 받습니다.
 
-통상, Difficulty Target을 찾는 시간은 10분 내외이며, 마이닝 완료 시 10분 안에 있었던 컴퓨팅 파워의 모든 프로세스가 모여 하나의 블록을 생성합니다. 따라서 해킹을 위해서는 10분간 마이닝에 이루어지는 컴 퓨팅파워보다훨씬큰컴퓨팅파워를갖고마이닝과정을해독하며이 전 블록과 새로운 블록을 고쳐야 합니다.
+통상, Difficulty Target을 찾는 시간은 10분 내외이며, 마이닝 완료 시 10분 안에 있었던 컴퓨팅 파워의 모든 프로세스가 모여 하나의 블록을 생성합니다. 따라서 해킹을 위해서는 10분간 마이닝에 이루어지는 컴퓨팅파워보다 훨씬 큰 컴퓨팅파워를 갖고 마이닝과정을 해독하며 이전 블록과 새로운 블록을 고쳐야 합니다.
 
 하지만 10분 안에 이러한 과정을 처리할 수 있는 컴퓨팅 파워는 존재하지 않습니다. 즉, 앞서 설명한 10분 마다 작업증명(PoW)을 통해 거래 유효성 검증 과정이 일련의 마이닝 과정으로 이해하면 된다. 블록체인 네트워크 입장에서는 p2p 모든 사용자의 컴퓨팅 파워를 이용해 거래의 신뢰성을 획득하고 사용자들은 마이닝 과정에 컴퓨팅 파워를 제공함으로써 비트코인을 인센티브로 제공받는다.
 
@@ -110,6 +110,6 @@ Everledger는 블록체인을 이용하여 다이아몬드의 유통과정을 �
 
 # Python을 이용한 BlockChain 기초 학습
 ref :
-- https://github.com/JoMingyu/Blockchain-py
+- [BlockChain 예제](https://github.com/JoMingyu/Blockchain-py)
 
-repo : https://github.com/TovenBae/blockchain-study.git
+repo : [blockchain study](https://github.com/TovenBae/blockchain-study.git)
