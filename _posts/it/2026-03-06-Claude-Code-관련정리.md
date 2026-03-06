@@ -6,4 +6,5 @@ categories: ai claude-code
 
 # 참고
 
-- [Claude Code Best Practice](https://github.com/shanraisshan/claude-code-best-practice?utm_source=substack&utm_medium=email)aude
+- [Claude Code Best Practice](https://github.com/shanraisshan/claude-code-best-practice?utm_source=substack&utm_medium=email)
+
