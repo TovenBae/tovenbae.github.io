@@ -11,3 +11,4 @@ categories: ai claude-code
 - [CMU 10-202 : 현대 인공지능 입문](https://news.hada.io/topic?id=27144&utm_source=weekly&utm_medium=email&utm_campaign=202610)
 - [클로드 코드 가이드](https://wikidocs.net/book/19104)
 - [Claude Code 플레이북](https://claude-code-playbook-nu.vercel.app)
+- [일상적으로 사용하는 Claude Code 팁과 모범 사례 50가지 (x.com/codevolutionweb)](https://news.hada.io/topic?id=27677&utm_source=weekly&utm_medium=email&utm_campaign=202612)
